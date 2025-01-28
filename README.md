@@ -5,8 +5,8 @@ I specialize as a developer and have been in the field for over 7 years.
 
 💻 My specialty:
 Is front-end, but I work a lot of expertise as a fullstack, using the following technologies: 
-- Javascript (React)
-- Node, 
+- Javascript
+- Python,
 - PHP,
 - Ruby
 
