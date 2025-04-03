@@ -1,12 +1,16 @@
-📖 About studies:
-I studied for 3 years during high school in the technology area, after 3 years I graduated as a systems analyst. 
+My name is Nathan Condé, I'm 24 years old. 🙋🏻‍♂️
 
-I specialize as a developer and have been in the field for over 7 years. 
+👩🏻‍💻 I've always been passionate about technology and started in this world when I was 13 or 14 years old.
 
-💻 My specialty:
-Is front-end, but I work a lot of expertise as a fullstack, using the following technologies: 
-- Javascript
-- Python,
+📚 I studied technology for 3 years during high school at IFET MG, after graduating I graduated for 2 years as a Systems Analyst.
+
+I'm a development specialist and have been in the field for over 7 years.
+
+💻My specialty:
+It's front-end, but I work a lot as a fullstack developer, using the following technologies 👇
+
+- AI
+-Javascript
+-Python,
 - PHP,
 - Ruby
-
