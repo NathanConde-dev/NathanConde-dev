@@ -11,6 +11,5 @@ It's front-end, but I work a lot as a fullstack developer, using the following t
 
 - AI
 -Javascript
--Python,
-- PHP,
-- Ruby
+- Python
+- PHP
