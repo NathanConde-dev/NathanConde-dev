@@ -1,4 +1,4 @@
-My name is Nathan Condé, I'm 24 years old. 🙋🏻‍♂️
+My name is Nathan Condé, I'm 25 years old. 🙋🏻‍♂️
 
 👩🏻‍💻 I've always been passionate about technology and started in this world when I was 13 or 14 years old.
 
