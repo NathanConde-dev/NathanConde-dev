@@ -10,6 +10,6 @@ I'm a development specialist and have been in the field for over 7 years.
 It's front-end, but I work a lot as a fullstack developer, using the following technologies 👇
 
 - AI
-- Javascript
-- Python
+- Javascript (Node.js / React / React Native)
 - PHP
+- Python
