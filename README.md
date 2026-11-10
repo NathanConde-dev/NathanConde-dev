@@ -1,4 +1,4 @@
-My name is Nathan Condé, I'm 25 years old. 🙋🏻‍♂️
+My name is Nathan Condé, I'm 26 years old. 🙋🏻‍♂️
 
 👩🏻‍💻 I've always been passionate about technology and started in this world when I was 13 or 14 years old.
 
@@ -12,4 +12,5 @@ It's front-end, but I work a lot as a fullstack developer, using the following t
 - AI
 - Javascript (Node.js / React / React Native)
 - PHP
+- GO
 - Python
